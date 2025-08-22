@@ -1,0 +1,13 @@
+Eleven Labs: https://beta.elevenlabs.io/subscription
+
+Click on profile image > Profile
+
+Open AI API Key: https://platform.openai.com/account/api-keys
+
+Just create a key and copy it
+
+Open AI Org: https://platform.openai.com/account/org-settings
+
+https://github.com/PacktPublishing/ChatGPT-Voice-Powered-ChatBot-Build-with-React-and-FastAPI
+
+runnig fastapi app : uvicorn main:app --reload or uvicorn main:app
